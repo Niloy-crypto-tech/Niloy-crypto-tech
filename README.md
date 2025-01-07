@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Niloy-crypto-tech
+- 👋 Hi, I’m @Niloy
 - 👀 I’m interested in cpp and web developing 
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on meta,intel or some other tech giants
